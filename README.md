@@ -1,2 +1,3 @@
 # Pure-css-texture
-pure css texture checkout 
+pure css texture. checkout 
+
